@@ -6,7 +6,9 @@
 - [Anim 2](./anim2/): Lesbian
   - [\[APNG\]](https://puu.sh/FV8ki/7f58a50a73.apng)
 - [Anim 3](./anim3/): Transgender
+  - [\[APNG\]](https://puu.sh/G1xY5/a80087c78c.apng)
 - [Anim 4](./anim4/): Asexual
+  - [\[APNG\]](https://puu.sh/G1wD8/8ba4d86890.apng)
 
 <b>To be done:</b>
 - Anim 5 - Scheduled for 2020-06-29
