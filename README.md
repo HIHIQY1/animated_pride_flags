@@ -9,9 +9,10 @@
   - [\[APNG\]](https://puu.sh/G1xY5/a80087c78c.apng)
 - [Anim 4](./anim4/): Asexual
   - [\[APNG\]](https://puu.sh/G1wD8/8ba4d86890.apng)
+- [Anim 5](./anim5/): Omnisexual
+  - \[APNG not yet available\] Of course, you can also render it yourself! Follow the steps below for that.
 
 <b>To be done:</b>
-- Anim 5 - Scheduled for 2020-06-29
 - Anim 6 - Scheduled for 2020-06-30
 - Anim 7 - Scheduled for 2020-06-30
 
@@ -24,6 +25,8 @@ To render all individual frames:
 3. Install all node modules by running `npm i` in that folder.
 4. Run the rendering script by running `node .` in that folder.
 5. All frames will be available at `./anim#/render/frames_SIZExFRAMERATE/` in the format of `#.png`.
+
+<br/>
 
 To encode all frames into an APNG:
 1. If you haven't already, install [FFmpeg](https://ffmpeg.org/) on your computer.
