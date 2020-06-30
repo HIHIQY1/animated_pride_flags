@@ -10,7 +10,7 @@
 - [Anim 4](./anim4/): Asexual
   - [\[APNG\]](https://puu.sh/G1wD8/8ba4d86890.apng)
 - [Anim 5](./anim5/): Omnisexual
-  - \[APNG not yet available\] Of course, you can also render it yourself! Follow the steps below for that.
+  - [\[APNG\]](https://puu.sh/G24Gz/c18fdd13c5.apng)
 
 <b>To be done:</b>
 - Anim 6 - Scheduled for 2020-06-30
