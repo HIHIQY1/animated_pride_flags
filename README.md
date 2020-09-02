@@ -13,8 +13,10 @@
   - [\[APNG\]](https://puu.sh/G24Gz/c18fdd13c5.apng)
 
 <b>To be done:</b>
-- Anim 6 - Scheduled for 2020-06-30
-- Anim 7 - Scheduled for 2020-06-30
+- Anim 6 - Scheduled for 2021-06-07
+- Anim 7 - Scheduled for 2021-06-14
+- Anim 8 - Scheduled for 2021-06-21
+- Anim 9 - Scheduled for 2021-06-28
 
 <br/>
 
